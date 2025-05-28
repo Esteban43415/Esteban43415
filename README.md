@@ -37,20 +37,11 @@ Actualmente curso una Maestría en Ciencia de Datos, donde combino machine learn
 
 ---
 
-### 📈 Mis Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emilioguzman&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioguzman&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🤝 Conectemos
 
-📨 [emilioguzman.dev@gmail.com](mailto:emilioguzman.dev@gmail.com)  
+📨 [info@emilioguzman.dev](mailto:info@emilioguzman.dev)  
 🌐 [https://emilioguzman.dev](https://emilioguzman.dev)  
-💼 [linkedin.com/in/emilioguzmanec](https://linkedin.com/in/emilioguzmanec)
+💼 [linkedin.com/in/egm-dev-it](https://linkedin.com/in/egm-dev-it)
 
 ---
 
